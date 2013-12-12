@@ -1,0 +1,7 @@
+pusher_apikey: "7f40c7f224f687654e8f"
+pusher_secret: "da8fe370577a24473ebb"
+pusher_channel: "actioncrafter"
+led_pin: 13
+button_pin: 2
+photocell_pin: 0
+ultrasonic_pin: 9
